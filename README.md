@@ -12,15 +12,18 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 
 ## **Study Members**
 
-| Name         | Role        | Email Address        |
-| ------------ | ----------- | -------------------- |
-| Yunyeong Kim | Organizer   | yunyeong93@gmail.com |
-| Daehyun Kim  | Participant | kimdhyungg@gmail.com |
-| Yunho Jo     | Participant | yujo.dev@gmail.com   |
-| Jiheon       | Participant | jiheon2234@gmail.com |
-| Naeun Kim    | Participant | knae11@naver.com     |
-| Hanjun Kim   | Participant | hanjun0126@gmail.com |
-
+| Name         | Role        | Email Address               |
+| ------------ | ----------- | --------------------------- |
+| Yunyeong Kim | Organizer   | yunyeong93@gmail.com        |
+| Daehyun Kim  | Participant | kimdhyungg@gmail.com        |
+| Yunho Jo     | Participant | yujo.dev@gmail.com          |
+| Jiheon       | Participant | jiheon2234@gmail.com        |
+| Naeun Kim    | Participant | knae11@naver.com            |
+| Hanjun Kim   | Participant | hanjun0126@gmail.com        |
+| TaeHyeok Lee | Participant | ritmakid@gmail.com          |
+| JeongAh Hong | Participant | isjoeyful@gmail.com         |
+| BeomSeok Kim | Participant | https://github.com/xfrnk2   |
+| BeomJin Cho  | Participant | https://github.com/ccf05017 |
 
 > If you'd like to join the study, please contact the organizer at **yunyeong93@gmail.com**. 🎉
 
@@ -29,8 +32,8 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 ## **Study Format**
 
 - **Platform**: [LeetCode](https://leetcode.com) (Focus: Easy & Medium problems)
-- **Frequency**: Weekly Google Meet sessions  
-- **Session Agenda**: Analyze and discuss 2 algorithm problems per meeting
+- **Frequency**: Weekly Zoom Meet sessions  
+- **Session Agenda**: Analyze and discuss 1~3 algorithm problems per meeting
 
 ---
 
@@ -72,7 +75,7 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 ## **Feedback & Discussion**
 
 ### **1. Feedback after Presentations**
-- After each presentation, allocate **5 minutes** for group feedback.
+- After each presentation, allocate maximum **5 minutes** for group feedback.
 - Feedback can include:
   - Code quality and readability
   - Alternative approaches
@@ -102,11 +105,15 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 10      | 2025-04-26 | [401] [Binary Watch](https://leetcode.com/problems/binary-watch/) / [784] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) / [46] [Permutations](https://leetcode.com/problems/permutations/)                                                                                                    |
 | 11      | 2025-05-03 | [933] [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) / [1700] [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) / [649] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                                                |
 | 12      | 2025-05-10 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
-
-
+| 13      | 2025-05-17 | **Offline Meeting** \|\| Unsolved Problem  \|\| Retry solved Problem<br>                                                                                                                                                                                                                                                          |
+| 14      | 2025-05-25 | [70] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) / [713] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) / [238] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                    |
+| 15      | 2025-06-01 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) / [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) / [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                    |
+| 16      | 2025-06-08 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) / [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) / [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)          |
+| 17      | 2025-06-15 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
 
 
 ---
 
 ### Let’s solve, learn, and improve together! 💻✨
-#week12
+
+#week17
